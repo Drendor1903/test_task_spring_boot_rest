@@ -35,4 +35,4 @@
 3. В командной строке ввести `java -jar target\TestTaskSpringBoot-0.0.1-SNAPSHOT.jar`
 
 ### Postman
-При импорте файла `TestTasksSpringBoot.postman_collection.json` импортируется коллекция с помощью которой можно проверить работоспособность кода
+При импорте файла `TestTasksSpringBoot.postman_collection.json` в Postman, импортируется коллекция с помощью которой можно проверить работоспособность кода
